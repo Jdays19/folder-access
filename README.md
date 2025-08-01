@@ -26,7 +26,7 @@ This script is adapted from a project I developed during my previous internship.
 
 ## Examples
 
-**Option 1** simply lists everything inside the folder and shows, in plain columns, who owns each item and what they’re allowed to do with it (read, write or execute). It’s like peeking at each file’s “lock settings” to see exactly who can open, change, or run it. That way you can catch mistakes, keep your data secure, and fix access problems before they block someone (or let someone in who shouldn’t be):<br>
+**Option 1** simply lists everything inside the folder and shows, in plain columns, who owns each item and what they’re allowed to do with it (read, write or execute). It lets you see exactly who can open, change, or run it. That way you can catch mistakes, keep your data secure, and fix access problems before they block someone (or let someone in who shouldn’t be):<br>
 
 <img width="740" height="410" alt="image" src="https://github.com/user-attachments/assets/b5b1aff6-1adc-43ba-821c-0ee54e395e87" />
 
